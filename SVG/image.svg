@@ -1,0 +1,6 @@
+ <svg width="400" height="400" style="outline: 2px solid crimson;" xmlns="http://www.w3.org/2000/svg">
+        <circle r="90" fill="yellow" cx="200" cy="220"></circle>
+        <circle r="8" fill="black" cx="180" cy="180"></circle>
+        <circle r="8" fill="black" cx="220" cy="180"></circle>
+        <line x1="150" y1="250" x2="220" y2="250" stroke="gray" stroke-width="20" stroke-linecap="round" cx="200"></line>
+</svg>
